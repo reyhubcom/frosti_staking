@@ -31,7 +31,7 @@ site:
       subItems:
         - id: all
           text: Bitcoin
-          href: /blog
+          href: /btc
           svg: "material-symbols:ink-pen-outline-rounded"
           target: _self
         - id: documentation
