@@ -24,23 +24,23 @@ site:
       svg: "material-symbols:info-outline-rounded"
       target: _self
     - id: blog
-      text: Staking
+      text: Blogs
       href: /blog
       svg: "material-symbols:book-2-outline-rounded"
       target: _self
       subItems:
         - id: all
-          text: Bitcoin
+          text: All blogs
           href: /blog
           svg: "material-symbols:ink-pen-outline-rounded"
           target: _self
         - id: documentation
-          text: Ethereum
+          text: Documentation
           href: /blog/category/Documentation
           svg: "material-symbols:unknown-document-outline-rounded"
           target: _self
         - id: examples
-          text: Solana
+          text: Examples
           href: /blog/category/Examples
           svg: "material-symbols:deployed-code-outline"
           target: _self
